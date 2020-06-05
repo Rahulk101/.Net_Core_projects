@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Park_WebApi_Udemy", "Park_WebApi_Udemy\Park_WebApi_Udemy.csproj", "{D8C066F6-1504-4111-8D76-4D5922FE098D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParksWeb", "ParksWeb\ParksWeb.csproj", "{55D8DB54-E968-4E3C-8FD0-8E0BBDC1831A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C066F6-1504-4111-8D76-4D5922FE098D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C066F6-1504-4111-8D76-4D5922FE098D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C066F6-1504-4111-8D76-4D5922FE098D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C066F6-1504-4111-8D76-4D5922FE098D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D8DB54-E968-4E3C-8FD0-8E0BBDC1831A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D8DB54-E968-4E3C-8FD0-8E0BBDC1831A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D8DB54-E968-4E3C-8FD0-8E0BBDC1831A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D8DB54-E968-4E3C-8FD0-8E0BBDC1831A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDDFCE52-A261-4637-9D31-6D63FD46B329}
+	EndGlobalSection
+EndGlobal

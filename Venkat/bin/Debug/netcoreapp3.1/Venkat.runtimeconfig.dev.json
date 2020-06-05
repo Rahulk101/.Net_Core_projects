@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mindfire\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mindfire\\.nuget\\packages"
+    ]
+  }
+}

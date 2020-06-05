@@ -1,0 +1,12 @@
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\bin\Debug\netcoreapp2.0\Globomantics.Services.deps.json
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\bin\Debug\netcoreapp2.0\Globomantics.Services.dll
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\bin\Debug\netcoreapp2.0\Globomantics.Services.pdb
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\bin\Debug\netcoreapp2.0\Globomantics.Core.dll
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\bin\Debug\netcoreapp2.0\Globomantics.Core.pdb
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\obj\Debug\netcoreapp2.0\Globomantics.Services.csprojAssemblyReference.cache
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\obj\Debug\netcoreapp2.0\Globomantics.Services.csproj.CoreCompileInputs.cache
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\obj\Debug\netcoreapp2.0\Globomantics.Services.AssemblyInfoInputs.cache
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\obj\Debug\netcoreapp2.0\Globomantics.Services.AssemblyInfo.cs
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\obj\Debug\netcoreapp2.0\Globomantics.Services.csproj.CopyComplete
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\obj\Debug\netcoreapp2.0\Globomantics.Services.dll
+D:\.Net core\Improving_.netCore_apps\Globomantics.Services\obj\Debug\netcoreapp2.0\Globomantics.Services.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1SCz01+HJ61A6+7CzR+lBQWzwtZLn7aWQPSG/Zo+DbZ8GJz24e/8GdCRkPkyjwUQObP2yB/TUrOsE/cEqf2cyA==",
+  "success": true,
+  "projectFilePath": "d:\\.Net core\\WEbAppTagHelper\\WEbAppTagHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mindfire\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\mindfire\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\mindfire\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
+    "C:\\Users\\mindfire\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

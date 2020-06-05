@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Globomantics.Services/1.0.0": {
+        "dependencies": {
+          "Globomantics.Core": "1.0.0"
+        },
+        "runtime": {
+          "Globomantics.Services.dll": {}
+        }
+      },
+      "Globomantics.Core/1.0.0": {
+        "runtime": {
+          "Globomantics.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Globomantics.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Globomantics.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

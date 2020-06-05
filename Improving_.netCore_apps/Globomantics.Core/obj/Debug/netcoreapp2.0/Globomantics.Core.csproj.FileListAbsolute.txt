@@ -1,0 +1,9 @@
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\bin\Debug\netcoreapp2.0\Globomantics.Core.deps.json
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\bin\Debug\netcoreapp2.0\Globomantics.Core.dll
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\bin\Debug\netcoreapp2.0\Globomantics.Core.pdb
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\obj\Debug\netcoreapp2.0\Globomantics.Core.csprojAssemblyReference.cache
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\obj\Debug\netcoreapp2.0\Globomantics.Core.csproj.CoreCompileInputs.cache
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\obj\Debug\netcoreapp2.0\Globomantics.Core.AssemblyInfoInputs.cache
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\obj\Debug\netcoreapp2.0\Globomantics.Core.AssemblyInfo.cs
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\obj\Debug\netcoreapp2.0\Globomantics.Core.dll
+D:\.Net core\Improving_.netCore_apps\Globomantics.Core\obj\Debug\netcoreapp2.0\Globomantics.Core.pdb
